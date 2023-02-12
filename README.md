@@ -1,7 +1,7 @@
 
 # Home Challenge
 
-This project navigates through a huge log file, displaying 10 lines of the log file at a time. Without refreshing the page. Used 
+This project navigates through a huge log file, displaying 10 lines of the log file at a time. Without refreshing the page.
 
 ### Technologies
 Laravel 9, PHP 8, JavaScript, JQuery, HTML, CSS, BootStrap
